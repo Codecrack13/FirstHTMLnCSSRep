@@ -1,0 +1,19 @@
+.hdr
+{
+  background: #000;
+  top:0;
+  left:0;
+  right:0;
+  position:fixed;
+  a{
+    color:#FFF;
+    font-size: 25px;
+  }
+}
+.ftr{
+  background: #00F;
+  h2{
+    color:#FFF;
+    font-size: 10px;
+  }
+}
